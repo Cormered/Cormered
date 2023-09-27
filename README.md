@@ -1,5 +1,5 @@
 - 👋 Olá, eu sou @Cormered  
-- 👀 estudo conhecimentos variados, sempre voltado para minha curiosidade, isso inclui  
-- 🌱 Atualmente, estou aprendendo Python e aprendizado de máquina  
-- 💞️ Estou procurando colaborar em projetos de código aberto  
+- 👀 estudo conhecimentos variados, sempre voltado para minha curiosidade, isso inclui a programação, onde aprendo o que eu preciso saber para criar funcionalidade
+- 🌱 Atualmente, estou aprendendo HTML, CSS e JS
+- 💞️ Estou procurando aprender mais sobre web design
 - 📫 Como me encontrar: Você pode me contatar pelo [email](mailto:joeslleyca@gmail.com)
